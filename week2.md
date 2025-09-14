@@ -22,10 +22,6 @@
 
 ###### I wrote the monitoring and retention clause primarally with data minimization in mind.  The clause was written about the exceptions to the general rule that network administrators should not be looking through everything you are doing unless it is something that is actually important for them to stop.  Such as anything illegal or defined as against the rules in a clear mannor.  The user is also put on notice by definition of reading the clause, they will have full knowledge of all information that will be collected about them.  
 
-## Evidence Links
-
-######
-
 ## Reflection 
 
 ###### Looking at my retention clause now, I absoutely leaned way harder on the template then I really should have.  There is a balance act between being too verbose that no one wants to read it and no one knows what the rules are, often what is seen in modern tech, primarally as a feature instead of a bug.  But if you don't elaborate enough no one knows what the rules are and that also really sucks. 
